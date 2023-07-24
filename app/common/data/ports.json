@@ -1,0 +1,812 @@
+[
+    {
+        "code": "ADA",
+        "city": "Adana",
+        "port": {
+            "code": "ADA",
+            "name": "Adana Havalimanı",
+            "data": {
+                "predictions": [
+                    "Adana Airport"
+                ]
+            }
+        },
+        "name": "Adana Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "ADF",
+        "city": "Adıyaman",
+        "port": {
+            "code": "ADF",
+            "name": "Adıyaman Havalimanı",
+            "data": {
+                "predictions": [
+                    "Adiyaman Airport"
+                ]
+            }
+        },
+        "name": "Adıyaman Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "AJI",
+        "city": "Ağrı",
+        "port": {
+            "code": "AJI",
+            "name": "Ağrı Havalimanı",
+            "data": {
+                "predictions": [
+                    "Agri Airport"
+                ]
+            }
+        },
+        "name": "Ağrı Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "GZP",
+        "city": "Alanya",
+        "port": {
+            "code": "GZP",
+            "name": "Gazipaşa Alanya Havalimanı",
+            "data": {
+                "predictions": [
+                    "Gazipasa Alanya Airport",
+                    "AYT",
+                    "Antalya Havalimanı",
+                    "Antalya"
+                ]
+            }
+        },
+        "name": "Gazipaşa Alanya Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "MZH",
+        "city": "Amasya",
+        "port": {
+            "code": "MZH",
+            "name": "Amasya Merzifon Havalimanı",
+            "data": {
+                "predictions": [
+                    "Amasya Merzifon Airport"
+                ]
+            }
+        },
+        "name": "Amasya Merzifon Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "ESB",
+        "city": "Ankara",
+        "port": {
+            "code": "ESB",
+            "name": "Ankara Esenboğa Havalimanı",
+            "data": {
+                "predictions": [
+                    "Ankara Esenboga Airport"
+                ]
+            }
+        },
+        "name": "Ankara Esenboğa Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "AYT",
+        "city": "Antalya",
+        "port": {
+            "code": "AYT",
+            "name": "Antalya Havalimanı",
+            "data": {
+                "predictions": [
+                    "Antalya Airport",
+                    "GZP",
+                    "Gazipaşa Alanya Havalimanı",
+                    "Alanya"
+                ]
+            }
+        },
+        "name": "Antalya Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "EDO",
+        "city": "Balıkesir - Edremit",
+        "port": {
+            "code": "EDO",
+            "name": "Koca Seyit Havalimanı",
+            "data": {
+                "predictions": [
+                    "ERDEMIT",
+                    "KÖRFES",
+                    "Koca Seyit Airport"
+                ]
+            }
+        },
+        "name": "Koca Seyit Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "BAL",
+        "city": "Batman",
+        "port": {
+            "code": "BAL",
+            "name": "Batman Havalimanı",
+            "data": {
+                "predictions": [
+                    "Batman Airport"
+                ]
+            }
+        },
+        "name": "Batman Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "BGG",
+        "city": "Bingöl",
+        "port": {
+            "code": "BGG",
+            "name": "Bingöl Havalimanı",
+            "data": {
+                "predictions": [
+                    "Bingol Airport"
+                ]
+            }
+        },
+        "name": "Bingöl Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "YEI",
+        "city": "Bursa",
+        "port": {
+            "code": "YEI",
+            "name": "Bursa Yenişehir Havalimanı",
+            "data": {
+                "predictions": [
+                    "Bursa Yenisehir Airport"
+                ]
+            }
+        },
+        "name": "Bursa Yenişehir Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "CKZ",
+        "city": "Çanakkale",
+        "port": {
+            "code": "CKZ",
+            "name": "Çanakkale Havalimanı",
+            "data": {
+                "predictions": [
+                    "Canakkale Airport"
+                ]
+            }
+        },
+        "name": "Çanakkale Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "DNZ",
+        "city": "Denizli",
+        "port": {
+            "code": "DNZ",
+            "name": "Denizli Çardak Havalimanı",
+            "data": {
+                "predictions": [
+                    "CARDAK",
+                    "Denizli Cardak Airport"
+                ]
+            }
+        },
+        "name": "Denizli Çardak Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "DIY",
+        "city": "Diyarbakır",
+        "port": {
+            "code": "DIY",
+            "name": "Diyarbakır Havalimanı",
+            "data": {
+                "predictions": [
+                    "Diyarbakir Airport"
+                ]
+            }
+        },
+        "name": "Diyarbakır Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "EZS",
+        "city": "Elazığ",
+        "port": {
+            "code": "EZS",
+            "name": "Elazığ Havalimanı",
+            "data": {
+                "predictions": [
+                    "Elazig Airport"
+                ]
+            }
+        },
+        "name": "Elazığ Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "ERC",
+        "city": "Erzincan",
+        "port": {
+            "code": "ERC",
+            "name": "Erzincan Yıldırım Akbulut Havalimanı",
+            "data": {
+                "predictions": [
+                    "Erzincan Yıldırım Akbulut Airport"
+                ]
+            }
+        },
+        "name": "Erzincan Yıldırım Akbulut Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "ERZ",
+        "city": "Erzurum",
+        "port": {
+            "code": "ERZ",
+            "name": "Erzurum Havalimanı",
+            "data": {
+                "predictions": [
+                    "Erzurum Airport"
+                ]
+            }
+        },
+        "name": "Erzurum Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "AOE",
+        "city": "Eskişehir",
+        "port": {
+            "code": "AOE",
+            "name": "Hasan Polatkan Havalimanı",
+            "data": {
+                "predictions": [
+                    "Hasan Polatkan Airport"
+                ]
+            }
+        },
+        "name": "Hasan Polatkan Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "GZT",
+        "city": "Gaziantep",
+        "port": {
+            "code": "GZT",
+            "name": "Gaziantep Havalimanı",
+            "data": {
+                "predictions": [
+                    "Gaziantep Airport"
+                ]
+            }
+        },
+        "name": "Gaziantep Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "YKO",
+        "city": "Hakkari",
+        "port": {
+            "code": "YKO",
+            "name": "Yüksekova Havalimanı",
+            "data": {
+                "predictions": [
+                    "Yüksekova Airport"
+                ]
+            }
+        },
+        "name": "Yüksekova Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "HTY",
+        "city": "Hatay",
+        "port": {
+            "code": "HTY",
+            "name": "Hatay Havalimanı",
+            "data": {
+                "predictions": [
+                    "Hatay Airport"
+                ]
+            }
+        },
+        "name": "Hatay Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "IGD",
+        "city": "Iğdır",
+        "port": {
+            "code": "IGD",
+            "name": "Iğdır Şehit Bülent Aydın Havalimanı",
+            "data": {
+                "predictions": [
+                    "Igdir Sehit Bulent Aydin Airport"
+                ]
+            }
+        },
+        "name": "Iğdır Şehit Bülent Aydın Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "ISE",
+        "city": "Isparta",
+        "port": {
+            "code": "ISE",
+            "name": "Isparta Süleyman Demirel Havalimanı",
+            "data": {
+                "predictions": [
+                    "Isparta Suleyman Demirel Airport"
+                ]
+            }
+        },
+        "name": "Isparta Süleyman Demirel Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "IST",
+        "city": "İstanbul",
+        "port": {
+            "code": "IST",
+            "name": "İstanbul Havalimanı",
+            "data": {
+                "predictions": [
+                    "ADADURK",
+                    "ATATRK",
+                    " ATATURK",
+                    " ISL",
+                    "Istanbul Airport"
+                ]
+            }
+        },
+        "name": "İstanbul Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "SAW",
+        "city": "İstanbul",
+        "port": {
+            "code": "SAW",
+            "name": "Sabiha Gökçen Havalimanı",
+            "data": {
+                "predictions": [
+                    "SABIHA GÖKÇEN",
+                    "SABIHA GOKÇEN",
+                    "Sabiha Gokcen Airport"
+                ]
+            }
+        },
+        "name": "Sabiha Gökçen Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "ADB",
+        "city": "İzmir",
+        "port": {
+            "code": "ADB",
+            "name": "İzmir Adnan Menderes Havalimanı",
+            "data": {
+                "predictions": [
+                    "Izmir Adnan Menderes Airport"
+                ]
+            }
+        },
+        "name": "İzmir Adnan Menderes Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "KCM",
+        "city": "Kahramanmaraş",
+        "port": {
+            "code": "KCM",
+            "name": "Kahramanmaraş Havalimanı",
+            "data": {
+                "predictions": [
+                    "Kahramanmaras Airport"
+                ]
+            }
+        },
+        "name": "Kahramanmaraş Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "KSY",
+        "city": "Kars",
+        "port": {
+            "code": "KSY",
+            "name": "Kars Harakani Havalimanı",
+            "data": {
+                "predictions": [
+                    "Kars Harakani Airport"
+                ]
+            }
+        },
+        "name": "Kars Harakani Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "KFS",
+        "city": "Kastamonu",
+        "port": {
+            "code": "KFS",
+            "name": "Kastamonu Havalimanı",
+            "data": {
+                "predictions": [
+                    "Kastamonu Airport"
+                ]
+            }
+        },
+        "name": "Kastamonu Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "ASR",
+        "city": "Kayseri",
+        "port": {
+            "code": "ASR",
+            "name": "Kayseri Havalimanı",
+            "data": {
+                "predictions": [
+                    "Kayseri Airport"
+                ]
+            }
+        },
+        "name": "Kayseri Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "KCO",
+        "city": "Kocaeli",
+        "port": {
+            "code": "KCO",
+            "name": "Kocaeli Cengiz Topel Havalimanı",
+            "data": {
+                "predictions": [
+                    "Kocaeli Cengiz Topel Airport"
+                ]
+            }
+        },
+        "name": "Kocaeli Cengiz Topel Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "KYA",
+        "city": "Konya",
+        "port": {
+            "code": "KYA",
+            "name": "Konya Havalimanı",
+            "data": {
+                "predictions": [
+                    "Konya Airport"
+                ]
+            }
+        },
+        "name": "Konya Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "KZR",
+        "city": "Kütahya",
+        "port": {
+            "code": "KZR",
+            "name": "Zafer Bölgesel Havalimanı",
+            "data": {
+                "predictions": [
+                    "Zafer Airport"
+                ]
+            }
+        },
+        "name": "Zafer Bölgesel Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "MLX",
+        "city": "Malatya",
+        "port": {
+            "code": "MLX",
+            "name": "Malatya Havalimanı",
+            "data": {
+                "predictions": [
+                    "Malatya Airport"
+                ]
+            }
+        },
+        "name": "Malatya Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "MQM",
+        "city": "Mardin",
+        "port": {
+            "code": "MQM",
+            "name": "Mardin Prof. Dr. Aziz Sancar Havalimanı",
+            "data": {
+                "predictions": [
+                    "Mardin Prof. Dr. Aziz Sancar Airport"
+                ]
+            }
+        },
+        "name": "Mardin Prof. Dr. Aziz Sancar Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "COV",
+        "city": "Mersin",
+        "port": {
+            "code": "COV",
+            "name": "Çukurova Havalimanı",
+            "data": {
+                "predictions": [
+                    "Cukurova Airport"
+                ]
+            }
+        },
+        "name": "Çukurova Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "BJV",
+        "city": "Muğla-Bodrum",
+        "port": {
+            "code": "BJV",
+            "name": "Milas-Bodrum Havalimanı",
+            "data": {
+                "predictions": [
+                    "Milas-Bodrum Airport"
+                ]
+            }
+        },
+        "name": "Milas-Bodrum Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "DLM",
+        "city": "Muğla-Dalaman",
+        "port": {
+            "code": "DLM",
+            "name": "Dalaman Havalimanı",
+            "data": {
+                "predictions": [
+                    "Dalaman Airport"
+                ]
+            }
+        },
+        "name": "Dalaman Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "MSR",
+        "city": "Muş",
+        "port": {
+            "code": "MSR",
+            "name": "Muş Havalimanı",
+            "data": {
+                "predictions": [
+                    "Mus Airport"
+                ]
+            }
+        },
+        "name": "Muş Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "NAV",
+        "city": "Nevşehir",
+        "port": {
+            "code": "NAV",
+            "name": "Nevşehir Kapadokya Havalimanı",
+            "data": {
+                "predictions": [
+                    "Nevsehir Kapadokya Airport"
+                ]
+            }
+        },
+        "name": "Nevşehir Kapadokya Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "OGU",
+        "city": "Ordu-Giresun",
+        "port": {
+            "code": "OGU",
+            "name": "Ordu-Giresun Havalimanı",
+            "data": {
+                "predictions": [
+                    "Ordu-Giresun Airport"
+                ]
+            }
+        },
+        "name": "Ordu-Giresun Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "RZV",
+        "city": "Rize",
+        "port": {
+            "code": "RZV",
+            "name": "Rize Artvin Havalimanı",
+            "data": {
+                "predictions": [
+                    "Rize Artvin Airport"
+                ]
+            }
+        },
+        "name": "Rize Artvin Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "SZF",
+        "city": "Samsun",
+        "port": {
+            "code": "SZF",
+            "name": "Samsun Çarşamba Havalimanı",
+            "data": {
+                "predictions": [
+                    "Samsun Carsamba Airport"
+                ]
+            }
+        },
+        "name": "Samsun Çarşamba Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "SXZ",
+        "city": "Siirt",
+        "port": {
+            "code": "SXZ",
+            "name": "Siirt Havalimanı",
+            "data": {
+                "predictions": [
+                    "Siirt Airport"
+                ]
+            }
+        },
+        "name": "Siirt Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "NOP",
+        "city": "Sinop",
+        "port": {
+            "code": "NOP",
+            "name": "Sinop Havalimanı",
+            "data": {
+                "predictions": [
+                    "Sinop Airport"
+                ]
+            }
+        },
+        "name": "Sinop Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "VAS",
+        "city": "Sivas",
+        "port": {
+            "code": "VAS",
+            "name": "Sivas Nuri Demirağ Havalimanı",
+            "data": {
+                "predictions": [
+                    "Sivas Nuri Demirag Airport"
+                ]
+            }
+        },
+        "name": "Sivas Nuri Demirağ Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "GNY",
+        "city": "Şanlıurfa",
+        "port": {
+            "code": "GNY",
+            "name": "Şanlıurfa GAP Havalimanı",
+            "data": {
+                "predictions": [
+                    "Sanliurfa GAP Airport"
+                ]
+            }
+        },
+        "name": "Şanlıurfa GAP Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "NKT",
+        "city": "Şırnak",
+        "port": {
+            "code": "NKT",
+            "name": "Şırnak Şerafettin Elçi Havalimanı",
+            "data": {
+                "predictions": [
+                    "Sirnak Serafettin Elci Airport"
+                ]
+            }
+        },
+        "name": "Şırnak Şerafettin Elçi Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "TJK",
+        "city": "Tokat",
+        "port": {
+            "code": "TJK",
+            "name": "Tokat Havalimanı",
+            "data": {
+                "predictions": [
+                    "Tokat Airport"
+                ]
+            }
+        },
+        "name": "Tokat Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "TZX",
+        "city": "Trabzon",
+        "port": {
+            "code": "TZX",
+            "name": "Trabzon Havalimanı",
+            "data": {
+                "predictions": [
+                    "Trabzon Airport"
+                ]
+            }
+        },
+        "name": "Trabzon Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "USQ",
+        "city": "Uşak",
+        "port": {
+            "code": "USQ",
+            "name": "Uşak Havalimanı",
+            "data": {
+                "predictions": [
+                    "Usak Airport"
+                ]
+            }
+        },
+        "name": "Uşak Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "VAN",
+        "city": "Van",
+        "port": {
+            "code": "VAN",
+            "name": "Van Ferit Melen Havalimanı",
+            "data": {
+                "predictions": [
+                    "Van Ferit Melen Airport"
+                ]
+            }
+        },
+        "name": "Van Ferit Melen Havalimanı",
+        "type": "port"
+    },
+    {
+        "code": "ONQ",
+        "city": "Zonguldak",
+        "port": {
+            "code": "ONQ",
+            "name": "Zonguldak Havalimanı",
+            "data": {
+                "predictions": [
+                    "Zonguldak Airport"
+                ]
+            }
+        },
+        "name": "Zonguldak Havalimanı",
+        "type": "port"
+    }
+]

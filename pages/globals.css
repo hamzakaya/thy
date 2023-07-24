@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: rgb(var(--foreground-rgb));
+}
+
+*{
+  outline: none !important;
+}
+
+.grow.pr-2.flex.flex-wrap.gap-1 {
+  font-size: 10px;
+  padding-left: 55px;
+  width: 120px;
+}
+
+.flex.text-sm.text-gray-500.border.border-gray-300.rounded.shadow-sm.transition-all.duration-300.focus\:outline-none.bg-white.hover\:border-gray-400.focus\:border-indigo-500.focus\:ring.focus\:ring-indigo-500\/20 {
+  border-radius: 0;
+  border: none;
+  height: 56px;
+  line-height: 35px;
+}
